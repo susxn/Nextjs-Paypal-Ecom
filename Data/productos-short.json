@@ -1,0 +1,159 @@
+{
+    "productsInfo": [
+        {
+            "Name": "MAN CITY",
+            "Preu": 24.95,
+            "Any": "2022-2023",
+            "Liga": "PREMIER",
+            "Retro": false,
+            "Images": [
+                "/PREMIER/MAN%20CITY/1.%20MANCH.%20C.jpg",
+                "/PREMIER/MAN%20CITY/1.1%20MANCH.%20C.jpg",
+                "/PREMIER/MAN%20CITY/1.2%20MANCH.%20C.jpg",
+                "/PREMIER/MAN%20CITY/1.3%20MANCH.%20C.jpg",
+                "/PREMIER/MAN%20CITY/2.%20MANCH.%20C.jpg",
+                "/PREMIER/MAN%20CITY/2.1%20MANCH.%20C.jpg",
+                "/PREMIER/MAN%20CITY/2.2%20MANCH.%20C.jpg",
+                "/PREMIER/MAN%20CITY/2.3%20MANCH%20C.jpg",
+                "/PREMIER/MAN%20CITY/3,%20MANCH.jpg",
+                "/PREMIER/MAN%20CITY/3.1%20MANCH%20C.jpg",
+                "/PREMIER/MAN%20CITY/3.2%20MANCH.%20C.jpg",
+                "/PREMIER/MAN%20CITY/3.3%20MANCH.%20C.jpg"
+            ],
+            "_id": "zd107kae"
+        },
+        {
+            "Name": "MANC. UNITED",
+            "Preu": 24.95,
+            "Any": "2022-2023",
+            "Liga": "PREMIER",
+            "Retro": false,
+            "Images": [
+                "/PREMIER/MANC.%20UNITED/1.1M.U.jpg",
+                "/PREMIER/MANC.%20UNITED/1.2.M.U.jpg",
+                "/PREMIER/MANC.%20UNITED/1.3M.U.jpg",
+                "/PREMIER/MANC.%20UNITED/1M.U.jpg",
+                "/PREMIER/MANC.%20UNITED/2.1.M.U.jpg",
+                "/PREMIER/MANC.%20UNITED/2.2M.U.jpg",
+                "/PREMIER/MANC.%20UNITED/2.3.M.U.jpg",
+                "/PREMIER/MANC.%20UNITED/2.M.U.jpg",
+                "/PREMIER/MANC.%20UNITED/3.1.M.U.jpg",
+                "/PREMIER/MANC.%20UNITED/3.2.M.U.jpg",
+                "/PREMIER/MANC.%20UNITED/3.3.M.U.jpg",
+                "/PREMIER/MANC.%20UNITED/3.M.U.jpg"
+            ],
+            "_id": "pChEso4j"
+        },
+        {
+            "Name": "NEWCTL",
+            "Preu": 24.95,
+            "Any": "2022-2023",
+            "Liga": "PREMIER",
+            "Retro": false,
+            "Images": [
+                "/PREMIER/NEWCTL/1.1NCTL.jpg",
+                "/PREMIER/NEWCTL/1.2NCTL.jpg",
+                "/PREMIER/NEWCTL/1.3NCTL.jpg",
+                "/PREMIER/NEWCTL/1.NCTL.jpg",
+                "/PREMIER/NEWCTL/2.1NCTL.jpg",
+                "/PREMIER/NEWCTL/2.2NCTL.jpg",
+                "/PREMIER/NEWCTL/2.3NCTL.jpg",
+                "/PREMIER/NEWCTL/2.NCTL.jpg",
+                "/PREMIER/NEWCTL/3.1NCTL.jpg",
+                "/PREMIER/NEWCTL/3.2NCTL.jpg",
+                "/PREMIER/NEWCTL/3.3NTCL.jpg",
+                "/PREMIER/NEWCTL/3.NCTL.jpg"
+            ],
+            "_id": "IroVKSmj"
+        },
+        {
+            "Name": "SAMPO",
+            "Preu": 24.95,
+            "Any": "2022-2023",
+            "Liga": "PREMIER",
+            "Retro": false,
+            "Images": [
+                "/PREMIER/SAMPO/1.1SAMPO.jpg",
+                "/PREMIER/SAMPO/1.2SAMPO.jpg",
+                "/PREMIER/SAMPO/1.3SAMPO.jpg",
+                "/PREMIER/SAMPO/1.SAMPO.jpg"
+            ],
+            "_id": "YsGkCwwD"
+        },
+        {
+            "Name": "TOTTH",
+            "Preu": 24.95,
+            "Any": "2022-2023",
+            "Liga": "PREMIER",
+            "Retro": false,
+            "Images": [
+                "/PREMIER/TOTTH/1.1TTH.jpg",
+                "/PREMIER/TOTTH/1.2TTH.jpg",
+                "/PREMIER/TOTTH/1.3TTH.jpg",
+                "/PREMIER/TOTTH/1TTH.jpg",
+                "/PREMIER/TOTTH/2.1TTH.jpg",
+                "/PREMIER/TOTTH/2.2TTH.jpg",
+                "/PREMIER/TOTTH/2.3TTH.jpg",
+                "/PREMIER/TOTTH/2TTH.jpg",
+                "/PREMIER/TOTTH/3.1TTH.jpg",
+                "/PREMIER/TOTTH/3.2TTH.jpg",
+                "/PREMIER/TOTTH/3.3TTH.jpg",
+                "/PREMIER/TOTTH/3.TTH.jpg"
+            ],
+            "_id": "kMRMdQcs"
+        },
+        {
+            "Name": "WEST HAM",
+            "Preu": 24.95,
+            "Any": "2022-2023",
+            "Liga": "PREMIER",
+            "Retro": false,
+            "Images": [
+                "/PREMIER/WEST%20HAM/1.1WSTH.jpg",
+                "/PREMIER/WEST%20HAM/1.2WSTH.jpg",
+                "/PREMIER/WEST%20HAM/1.3WSTH.jpg",
+                "/PREMIER/WEST%20HAM/1.WSTH.jpg",
+                "/PREMIER/WEST%20HAM/2.1WSTH.jpg",
+                "/PREMIER/WEST%20HAM/2.2WSTH.jpg",
+                "/PREMIER/WEST%20HAM/2.3WSTH.jpg",
+                "/PREMIER/WEST%20HAM/2.WSTH.jpg"
+            ],
+            "_id": "ykyZefeF"
+        },
+        {
+            "Name": "BOCA JUNIORS",
+            "Preu": 24.95,
+            "Any": "2022-2023",
+            "Liga": "SAF",
+            "Retro": false,
+            "Images": [
+                "/SAF/BOCA%20JUNIORS/1.1BJ.jpg",
+                "/SAF/BOCA%20JUNIORS/1.2BJ.jpg",
+                "/SAF/BOCA%20JUNIORS/1.3BJ.jpg",
+                "/SAF/BOCA%20JUNIORS/1.BJ.jpg",
+                "/SAF/BOCA%20JUNIORS/2.1BJ.jpg",
+                "/SAF/BOCA%20JUNIORS/2.2BJ.jpg",
+                "/SAF/BOCA%20JUNIORS/2.3BJ.jpg",
+                "/SAF/BOCA%20JUNIORS/2.BJ.jpg",
+                "/SAF/BOCA%20JUNIORS/3.1BJ.jpg",
+                "/SAF/BOCA%20JUNIORS/3.2BJ.jpg",
+                "/SAF/BOCA%20JUNIORS/3.3BJ.jpg",
+                "/SAF/BOCA%20JUNIORS/3.BJ.jpg"
+            ],
+            "_id": "jHNbi7IV"
+        },
+        {
+            "Name": "RIVERS",
+            "Preu": 24.95,
+            "Any": "2022-2023",
+            "Liga": "SAF",
+            "Retro": false,
+            "Images": [
+                "/SAF/RIVERS/2.1RP.jpg",
+                "/SAF/RIVERS/2.2RP.jpg",
+                "/SAF/RIVERS/2.RP.jpg"
+            ],
+            "_id": "uzYE2PAi"
+        }
+    ]
+}
