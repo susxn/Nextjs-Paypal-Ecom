@@ -11,7 +11,6 @@ export default function CheckoutPage() {
   
 
   const products_json = products.productsInfo; // Asegúrate de tener acceso a products.productsInfo
-console.log(products_json)
   useEffect(() => {
     if (uniqIds.length > 0 && products) {
       setSelected(
