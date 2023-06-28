@@ -125,7 +125,7 @@ export default function CheckoutPage() {
             </div>
           </div>
         ))}
-       <PayPalScriptProvider options={{"client-id": "AbOQLenxhHnnxh_y70JVkSLs9wv3BVF--mAlLCVN3vcqlumn7wHB5rS5NOcCT8UgXf9Pqr_ZFF_nm224"}}>
+       <PayPalScriptProvider options={{"client-id": "test"}}>
         <PayPalButtons style={{ layout: "vertical", color: "blue"}} />
        </PayPalScriptProvider>
 
